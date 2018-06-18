@@ -3,6 +3,7 @@
 //DESCRIPTION:		This is a class which acts as a main pane for the web broswer, this is made up of a WebPane, an extension of JEditor and a scroll pane
 //					The class itself is an extension of JPanel so it can be treated as a component panel and added to the interface.
 //					Methods are all documented above signatures if not self explanatory
+//Achieved: 27/28
 
 package web;
 import java.awt.BorderLayout;
